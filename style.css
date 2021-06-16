@@ -115,6 +115,10 @@ blockquote {
 	font-size: 34px;	
 }
 
+figure {
+	padding: 0;
+}
+
 blockquote::before,
 blockquote::after {
 	content: "";
